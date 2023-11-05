@@ -7,11 +7,11 @@
 3. data: 
 
 ## Compile dan run
-1. 'mvn install'
+1. `mvn install`
 2. java -jar target/
 
 ## Uninstall
-1. 'mvn clean'
+1. `mvn clean`
 
 ## Anggota Kelompok
 Nama | NIM
