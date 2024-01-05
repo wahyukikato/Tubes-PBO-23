@@ -14,11 +14,11 @@
 1. `mvn clean`
 
 ## Anggota Kelompok
-Nama | NIM
--|-
-Azhar Amirul Abid | 1301213032
-Duta Razaq Suhoyo | 1301210280
-Hemia Lisa Simbolon | 1301210526
-Muhammad Wahyu Pratama | 1301213199
+Nama | NIM | Keterangan
+-|-|-
+Azhar Amirul Abid | 1301213032 | Source Code & Laporan
+Duta Razaq Suhoyo | 1301210280 | Data & Laporan 
+Hemia Lisa Simbolon | 1301210526 | Source Code & Laporan
+Muhammad Wahyu Pratama | 1301213199 | Data & Laporan
 
 [Laporan](...)
