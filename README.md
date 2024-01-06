@@ -14,9 +14,9 @@
 ## Anggota Kelompok
 Nama | NIM | Keterangan
 -|-|-
-Azhar Amirul Abid | 1301213032 | Source Code & Laporan
-Duta Razaq Suhoyo | 1301210280 | Data & Laporan 
-Hemia Lisa Simbolon | 1301210526 | Source Code & Laporan
-Muhammad Wahyu Pratama | 1301213199 | Data & Laporan
+Azhar Amirul Abid | 1301213032 | Source Code 
+Duta Razaq Suhoyo | 1301210280 | Data 
+Hemia Lisa Simbolon | 1301210526 | Source Code
+Muhammad Wahyu Pratama | 1301213199 | Data 
 
 [Laporan](...)
