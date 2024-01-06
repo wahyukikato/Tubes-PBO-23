@@ -1,14 +1,12 @@
 # Tubes-PBO-23
-> Tugas Besar
+> Tugas Besar Aplikasi Kasir 
 
 ## Struktur Folder
 1. docs:
 2. src: source code
-3. data: assets, data game, dan save file
 
 ## Compile dan run
-1. `mvn install`
-2. java -jar target/
+1.Run dan Compile dari netbeans
 
 ## Uninstall
 1. `mvn clean`
