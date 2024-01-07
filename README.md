@@ -14,6 +14,7 @@
 ## Deskripsi Pengerjaan Tiap Anggota
 1. Azhar Amirul Abid : Dalam penyelesaian Tugas besar ini saya berkontribusi dengan merancang source code sebagian aplikasi kasir dengan membuat logika-logika yang diimplementasikan dalam code program.
 2. Hemia Lisa Simbolon : Dalam penyelesaian Tugas besar ini saya berkontribusi dengan merancang source code aplikasi kasir dan membuat database kasir yang diimplementasikan dalam code program.
+3. Duta Razaq Suhoyo : Dalam penyelesaian Tugas Besar ini saya berkontribusi dengan merancang source code aplikasi kasir dan UI pada netbeans.
 
 ## Anggota Kelompok
 Nama | NIM | Keterangan
