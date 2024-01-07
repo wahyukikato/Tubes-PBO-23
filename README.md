@@ -13,6 +13,7 @@
 
 ## Deskripsi Pengerjaan Tiap Anggota
 1. Azhar Amirul Abid : Dalam penyelesaian Tugas besar ini saya berkontribusi dengan merancang source code sebagian aplikasi kasir dengan membuat logika-logika yang diimplementasikan dalam code program.
+2. Muhammad Wahyu Pratama : Dalam pembuatan TUGAS BESAR saya berkontribusi membuat code pada class transaksi dengan benar.
 
 ## Anggota Kelompok
 Nama | NIM | Keterangan
