@@ -12,7 +12,7 @@
 1. `mvn clean`
 
 ## Deskripsi Pengerjaan Tiap Anggota
-1. Azhar Amirul Abid : Dalam penyelesaian Tugas besar ini saya berkontribusi dengan merancang source code sebagian aplikasi kasir dengan membuat logika-logika yang diimplementasikan dalam code program.
+1. Azhar Amirul Abid : Dalam penyelesaian Tugas Besar ini saya berkontribusi dengan merancang source code sebagian aplikasi kasir dengan membuat logika-logika yang diimplementasikan dalam code program.
 
 ## Anggota Kelompok
 Nama | NIM | Keterangan
@@ -22,4 +22,4 @@ Duta Razaq Suhoyo | 1301210280 | Data
 Hemia Lisa Simbolon | 1301210526 | Source Code
 Muhammad Wahyu Pratama | 1301213199 | Data 
 
-[Laporan](...)
+[Laporan](....)
